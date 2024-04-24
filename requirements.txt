@@ -1,0 +1,6 @@
+pip == 24.0
+torch
+pandas
+scikit-learn
+joblib
+shiny
